@@ -1,7 +1,8 @@
-# hello-world
+# ソフトウェア工学
 
-Software engineering Tasks
+## 日付
+2023/1/12
 
-I love :coffee: :pizza:, and :soccer:.
-
-My name is Daisuke Tahara.
+## 自己紹介リスト
+- [intro.md](intro.md)
+- [intro2.md](intro2.md)
