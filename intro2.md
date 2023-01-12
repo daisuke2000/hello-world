@@ -1,22 +1,12 @@
 # hello-world
 
-## 日付
-- 2022/12/22
+## 名前
+あずき
 
-## 講義名
-- ソフトウェア工学
-
-
-## 自己紹介
-- I am RyudaiIwakami.
-- I am a Saitama University student.
-- I am studying system enginieering at the university.
-- I am in the brass band club.
-- My hobbis are photographing and driving a car.
-- I love birds.
-- I love cars.
-- I wanna go to Hokkaido.
-
-
-- Photogragh that I took
-![IMG_8280](https://user-images.githubusercontent.com/103726264/209043137-2cf02da3-061d-4dfc-98ce-2ccc0ab64d5a.jpg)
+## 説明
+- うちの飼い猫
+- 毛色は真っ黒
+- 飼い始めて約4年
+- インターホンに敏感
+- 抱っこは嫌い
+- 甘えてはくる
